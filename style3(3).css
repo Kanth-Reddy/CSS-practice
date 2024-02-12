@@ -1,0 +1,35 @@
+#box{
+    height: 225px;
+    width: 86px;
+    background-color: grey;
+    display: inline-block;
+
+}
+#red{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 15px;
+    align-items: center;
+    
+}
+#green{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50%;
+    margin: 15px;
+    align-items: center;
+}
+#yellow{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin: 15px;
+    align-items: center;
+}
+div{
+    padding: 1px;
+}

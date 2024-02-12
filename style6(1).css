@@ -1,0 +1,27 @@
+ul{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    background-color: aqua;
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    align-self: flex-start;
+}
